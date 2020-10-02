@@ -7,6 +7,7 @@ TagManager:
   - Enemy
   - Laser
   - LoseLine
+  - OtroTag
   layers:
   - Default
   - TransparentFX
